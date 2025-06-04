@@ -22,7 +22,7 @@ The synth has 2 Waveform Generators that contain multiple oscillators
 
 9.	Trapezoid 2:		a variation of the saw waveform
 
-<b>The Generator parameters are as follows. <b/>
+<b>The Generator parameters are as follows. </b>
 
 Parameters:
 4	OctaveTranspose1	The octave shift for the first oscillator
