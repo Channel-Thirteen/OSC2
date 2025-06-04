@@ -49,7 +49,8 @@ Parameters:
 
 15	PulseWidth2	Changes the pulse of the OSC12 Square and Trapezoid oscillator
 
-16	HardSync	-
+16	HardSync	
+
 
 17	SemiTones1	-
 
@@ -60,3 +61,4 @@ Reverb controls, delay controls and chorous.
 
 There is a preset browser and manager and keyboard. 
 
+-![TEST VST](https://github.com/user-attachments/assets/f4e893b5-d8ff-460a-9836-17b94e7187bf)
