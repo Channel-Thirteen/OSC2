@@ -3,7 +3,7 @@ This is a 2 oscillator synth, created in HISE.
 The documents contained here are what's required for the GPL v3 open-source license to share, sell, distribute.
 
 Included in OSC2, is an AHDSR and Attack Level Envelope with visual graph. 
-Reverb controls, delay controls and chorous. 
+Reverb controls, delay controls and chorus. 
 
 There is a preset browser and manager and keyboard. 
 
