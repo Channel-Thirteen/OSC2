@@ -26,18 +26,37 @@ The Generator parameters are as follows.
 
 Parameters:
 4	OctaveTranspose1	The octave shift for the first oscillator
+
 5	WaveForm1	the waveform of the first oscillator
+
 6	Detune1	Detunes the first oscillator
+
 7	Pan1	Pans the first oscillator
+
 8	OctaveTranspose2	The octave shift for the second oscillator
+
 9	WaveForm2	the waveform of the second oscillator
+
 10	Detune2	Detunes the second oscillator
+
 11	Pan2	Pans the second oscillator
+
 12	Mix	The balance between osc1 and osc2
+
 13	EnableSecondOscillator	Turn the second OSC on and off
+
 14	PulseWidth1	Changes the pulse of the OSC1 Square and Trapezoid oscillator
+
 15	PulseWidth2	Changes the pulse of the OSC12 Square and Trapezoid oscillator
+
 16	HardSync	-
+
 17	SemiTones1	-
+
 18	SemiTones2	-
+
+Also included is an AHDSR and Attack Level Envelope with visual graph. 
+Reverb controls, delay controls and chorous. 
+
+There is a preset browser and manager and keyboard. 
 
