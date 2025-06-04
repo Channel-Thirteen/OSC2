@@ -2,7 +2,12 @@
 This is a 2 oscillator synth, created in HISE.
 The documents contained here are what's required for the GPL v3 open-source license to share, sell, distribute.
 
-The synth has 2 Waveform Generators that contain multiple oscillators
+Included in OSC2, is an AHDSR and Attack Level Envelope with visual graph. 
+Reverb controls, delay controls and chorous. 
+
+There is a preset browser and manager and keyboard. 
+
+<b><h1>The synth has 2 Waveform Generators that contain multiple oscillators </h1> </b>
 
 1.	Sine:		a sinusoidal curve
 
@@ -24,41 +29,36 @@ The synth has 2 Waveform Generators that contain multiple oscillators
 
 <b><h1>The Generator parameters are as follows</h1> </b>
 
-Parameters:
-4	OctaveTranspose1	The octave shift for the first oscillator
 
-5	WaveForm1	the waveform of the first oscillator
+OctaveTranspose1	The octave shift for the first oscillator
 
-6	Detune1	Detunes the first oscillator
+WaveForm1	the waveform of the first oscillator
 
-7	Pan1	Pans the first oscillator
+Detune1	Detunes the first oscillator
 
-8	OctaveTranspose2	The octave shift for the second oscillator
+Pan1	Pans the first oscillator
 
-9	WaveForm2	the waveform of the second oscillator
+OctaveTranspose2	The octave shift for the second oscillator
 
-10	Detune2	Detunes the second oscillator
+WaveForm2	the waveform of the second oscillator
 
-11	Pan2	Pans the second oscillator
+Detune2	Detunes the second oscillator
 
-12	Mix	The balance between osc1 and osc2
+Pan2	Pans the second oscillator
 
-13	EnableSecondOscillator	Turn the second OSC on and off
+Mix	The balance between osc1 and osc2
 
-14	PulseWidth1	Changes the pulse of the OSC1 Square and Trapezoid oscillator
+EnableSecondOscillator	Turn the second OSC on and off
 
-15	PulseWidth2	Changes the pulse of the OSC12 Square and Trapezoid oscillator
+PulseWidth1	Changes the pulse of the OSC1 Square and Trapezoid oscillator
 
-16	HardSync	
+PulseWidth2	Changes the pulse of the OSC2 Square and Trapezoid oscillator
 
+HardSync	
 
-17	SemiTones1	-
+SemiTones1	-
 
-18	SemiTones2	-
+SemiTones2	-
 
-Also included is an AHDSR and Attack Level Envelope with visual graph. 
-Reverb controls, delay controls and chorous. 
-
-There is a preset browser and manager and keyboard. 
 
 -![TEST VST](https://github.com/user-attachments/assets/f4e893b5-d8ff-460a-9836-17b94e7187bf)
